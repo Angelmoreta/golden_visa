@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "quartoCourseBlog"
+  title: "Golden visa española"
   navbar:
     right:
       - about.qmd

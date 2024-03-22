@@ -1,5 +1,5 @@
 ---
-title: "quartoCourseBlog"
+title: "Angel Moreta"
 listing:
   contents: posts
   sort: "date desc"
